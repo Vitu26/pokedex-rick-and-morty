@@ -83,7 +83,7 @@ lib/
 
 1. **Clone o repositório**
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Vitu26/pokedex-rick-and-morty.git
 cd pokedex
 ```
 
