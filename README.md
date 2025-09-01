@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b73bdc3c-2e0a-4050-9bca-b26a479218db" /># Pokedex - Rick and Morty App
+# Pokedex - Rick and Morty App
 
 Um aplicativo Flutter que consome a API do Rick and Morty para exibir personagens da série. O projeto foi desenvolvido seguindo boas práticas de arquitetura, com separação de responsabilidades, injeção de dependências e testes unitários.
 
