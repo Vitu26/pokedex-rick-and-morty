@@ -227,6 +227,14 @@ O projeto possui um sistema de logging configurado:
 - [x] Tema personalizado
 - [x] Widgets reutilizáveis
 
+##  Explicação em vídeo
+
+### Youtube
+
+```
+https://youtu.be/axzgUMctFlE?si=afDwRHS9S5W0fMYP
+```
+
 
 
 
